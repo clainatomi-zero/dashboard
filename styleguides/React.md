@@ -17,6 +17,8 @@ For more information about react use official docs https://reactjs.org/
     * [Methods](#methods)
 * [Redux](#redux)
     * [Actions](#actions)
+    * [Effects](#effects)
+    * [Reducer](#reducer)
 
 ## File system structure
 
